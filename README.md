@@ -12,4 +12,4 @@ I use in my work this:
 
 ####For testing bloody IE on my Mac
 
-- [ievsm](https://github.com/xdissent/ievms/)
+- [ievms](https://github.com/xdissent/ievms/)
