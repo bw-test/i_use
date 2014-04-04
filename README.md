@@ -16,5 +16,5 @@ I use in my work this:
 
 ####go
 
--[gvm](https://github.com/moovweb/gvm)
--[goem](https://github.com/adjust/goem)
+- [gvm](https://github.com/moovweb/gvm)
+- [goem](https://github.com/adjust/goem)
