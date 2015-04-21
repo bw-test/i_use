@@ -19,4 +19,4 @@ I use in my work this:
 - [goose](https://bitbucket.org/liamstask/goose)
 
 ####ruby
-- [pry-byebug](https://github.com/deivid-rodriguez/pry-byebug)
+- [pry-byebug](https://github.com/deivid-rodriguez/pry-byebug) 1111
