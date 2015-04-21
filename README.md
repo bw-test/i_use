@@ -20,4 +20,4 @@ I use in my work this:
 
 ####ruby
 - [pry-byebug](https://github.com/deivid-rodriguez/pry-byebug)
-- [dotenv-rails](https://github.com/bkeepers/dotenv)
+- [dotenv-rails o](https://github.com/bkeepers/dotenv)
