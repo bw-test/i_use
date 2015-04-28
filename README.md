@@ -22,3 +22,4 @@ I use in my work this:
 - [pry-byebug](https://github.com/deivid-rodriguez/pry-byebug)
 - [dotenv-rails o](https://github.com/bkeepers/dotenv)
 - other stuff21
+- other stuff32
